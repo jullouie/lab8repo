@@ -1,2 +1,7 @@
 created by Julianne on 4/12 1:44pm
+<<<<<<< HEAD
 Step 4: line added by Julianne on 4/12 1:59pm
+=======
+
+step 3: added by Julianne on 4/12 at 1:51pm
+>>>>>>> a8e632fc7c350bfea6a7a8e0509efffcb29c973c
